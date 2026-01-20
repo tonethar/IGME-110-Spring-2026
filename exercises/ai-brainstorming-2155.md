@@ -99,7 +99,7 @@ Take a screenshot if you like the result!
 ## Part 4: Share Your Creation (5 minutes)
 
 ### Step 8: Post to Slack
-1. Go to our class Slack → #section-[your section number] channel
+1. Go to our class Slack `#general` channel
 2. Find my message: "Share your Doomscrolling solution here!"
 3. **Click in the thread** (hover over message → "Reply in thread")
 4. Post:
