@@ -19,7 +19,7 @@
 ---
 
 ## II. Teams
-- [P1 Teams](p1-teams.md)
+- P1 Teams (TBD)
 
 ---
 
