@@ -16,7 +16,8 @@
     - quick removal and donning of gloves
     - Other features - snacking/junk food detection 
 - Gemini Brainstorming - https://g.co/gemini/share/bb2030548016
-- Remember that this is also App Proposal "Cage Match" (*you want your proposal to win, right??*)
+- Remember that this is also App Proposal "Cage Match"
+  - *and you want your proposal to win, right??*
 
 
 ## II. UI Considerations
