@@ -2,20 +2,20 @@
 
 ## I. Section 01 (TR 3:30PM-4:45PM)
 
-### Team 1
+### Team 1 - *Castly* - a "fish finder" app
 - Quinn
 - Sam
 
-### Team 2 
+### Team 2 - *Book tracker/suggester app*
 - Eli
 - Jack
 - Zoe
 
-### Team 3 
+### Team 3 - *The Orb* - home assistant smart device
 - Leia
 - Marina 
 - Alden
 
-### Team 4 
+### Team 4 - *Food tracking app*
 - Nathan
 - Jackson
