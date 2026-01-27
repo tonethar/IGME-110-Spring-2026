@@ -19,6 +19,7 @@
 - Remember that this is also App Proposal "Cage Match"
   - *and you want your proposal to win, right??*
 
+---
 
 ## II. UI Considerations
 - You need to provide some UI mockups in your proposal
