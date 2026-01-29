@@ -6,7 +6,7 @@
 - Quinn
 - Sam
 
-### Team 2 - *Book tracker/suggester app*
+### Team 2 - *Biblio* - Book tracker/suggester app
 - Eli
 - Jack
 - Zoe
@@ -16,6 +16,6 @@
 - Marina 
 - Alden
 
-### Team 4 - *Food tracking app*
+### Team 4 - *OneScan* - Food tracking app
 - Nathan
 - Jackson
