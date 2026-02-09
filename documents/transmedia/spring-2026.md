@@ -32,7 +32,9 @@
 ---
 ---
 
-## XXX (team 3)
+## A New World (team 3)
+*After waking up from a long coma, you find that the world has changed drastically. New technology, new cultures, and new dangers await. How do you adjust to this new life?*
+
 
 ![image 3-A](_images/3-A.jpg)
 
