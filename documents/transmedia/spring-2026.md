@@ -1,6 +1,6 @@
 # Transmedia Exercise
 
-- [Instructions are here](../weekly/4A.md#ii-in-class-exercise---transmedia-round-robintelephone-game)
+- [Instructions are here](../../weekly/4A.md#ii-in-class-exercise---transmedia-round-robintelephone-game)
 
 ---
 ---
