@@ -1,4 +1,4 @@
-# Transmedia Exercise
+# Transmedia Exercise Deliverables
 
 - [Instructions are here](../../weekly/4A.md#ii-in-class-exercise---transmedia-round-robintelephone-game)
 
