@@ -1,16 +1,23 @@
 # Transmedia Exercise
 
+- [Instructions are here](../weekly/4A.md#ii-in-class-exercise---transmedia-round-robintelephone-game)
+
+---
+---
 
 ## The Ghost Ship (team 1)
 - *A ship long lost at sea suddenly reappears in a busy harbor, with no crew aboard. You are part of the team sent to investigate. What happened to the crew?*
 
-
+###  A. Ghost Ship: 100-word story based on the prompt
 ![image 1-A](_images/1-A.jpg)
 
+###  B. Ghost Ship: 3-panel comic strip
 ![image 1-B](_images/1-B.jpg)
 
+###  C. Ghost Ship: "Choose your own adventure"
 ![image 1-C](_images/1-C.jpg)
 
+###  D. Ghost Ship: Final 100-word story 
 ![image 1-D](_images/1-D.jpg)
 
 
