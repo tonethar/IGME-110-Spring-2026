@@ -47,7 +47,8 @@
 ---
 ---
 
-## XXX (team 4)
+## The Whispering Wind (team 4)
+*You hear whispers in the wind that no one else can hear. At first, they seem harmless, but soon they begin to reveal dangerous secrets. What do the whispers want?*
 
 ![image 4-A](_images/4-A.jpg)
 
