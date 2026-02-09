@@ -18,11 +18,35 @@
 
 ## XXX (team 2)
 
+![image 2-A](_images/2-A.jpg)
+
+![image 2-B](_images/2-B.jpg)
+
+![image 2-C](_images/2-C.jpg)
+
+![image 2-D](_images/2-D.jpg)
+
 
 ---
 
 ## XXX (team 3)
 
+![image 3-A](_images/3-A.jpg)
+
+![image 3-B](_images/3-B.jpg)
+
+![image 3-C](_images/3-C.jpg)
+
+![image 3-D](_images/3-D.jpg)
+
 ---
 
 ## XXX (team 4)
+
+![image 4-A](_images/4-A.jpg)
+
+![image 4-B](_images/4-B.jpg)
+
+![image 4-C](_images/4-C.jpg)
+
+![image 4-D](_images/4-D.jpg)
