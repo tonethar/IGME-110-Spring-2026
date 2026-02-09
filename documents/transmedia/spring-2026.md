@@ -50,10 +50,10 @@
 ## The Whispering Wind (team 4)
 *You hear whispers in the wind that no one else can hear. At first, they seem harmless, but soon they begin to reveal dangerous secrets. What do the whispers want?*
 
-![image 4-A](_images/4-A.jpg)
+![image 4-A](_images/4-A.JPG)
 
-![image 4-B](_images/4-B.jpg)
+![image 4-B](_images/4-B.JPG)
 
-![image 4-C](_images/4-C.jpg)
+![image 4-C](_images/4-C.JPG)
 
-![image 4-D](_images/4-D.jpg)
+![image 4-D](_images/4-D.JPG)
