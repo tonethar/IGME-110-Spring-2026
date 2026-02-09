@@ -16,7 +16,8 @@
 
 ---
 
-## XXX (team 2)
+## The Deserted Town (team 2)
+- *You and your friends decide to visit a town that has been deserted for years. As you explore, you realize the town isn’t as empty as it seems. What do you discover?*
 
 ![image 2-A](_images/2-A.jpg)
 
