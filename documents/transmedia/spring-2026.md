@@ -105,7 +105,36 @@ teen-adventure to more of a horror story.
 ![image 4-C](_images/4-C.JPG)
 
 ###  D. The Whispering Wind: Final 100-word story 
-![image 4-D](_images/4-D.JPG)
+
+My friend, James, was out late again. Too late.
+
+It was the seventh time this week where he got himself lost in that old, abandoned
+farmland. I kept telling myself that I can’t babysit his wanderlust anymore, but I failed to stop
+myself.
+
+I ran out to that old farm, shouting his name. It felt like hours passed before I found him
+sprawled out on the grass.
+
+Terror engulfed me for a moment, and I rushed to his side. He was staring wide-eyed into
+the sky, a look of awe on his face. I saw the rapid rising and falling of his chest, and was relieved
+to know he was not dead.
+
+He seemed incredibly delirious, so I helped him onto his feet and brought him back to our
+apartment.
+
+But as the days went by, I noticed drastic changes within him: He spoke of events yet to
+come, of how the stars have brought him enlightenment, how the world must be warned. I was
+bewildered.
+
+When I tried to convince him to seek therapy, he assaulted me. I was knocked out for a
+while. But when I finally woke up, he was gone.
+
+I was worried sick and searched for him day and night, only for my attempts to be
+fruitless. I thought that he was dead, or worse, and mourning engulfed the rest of my month.
+
+Until... I saw his face on the news. He began a religion set around his newfound
+prophetic “skills”. Looking closer at his manic expression plastered on the television, I saw the
+cosmos reflected in his eyes
 
 ### E. The Whispering Wind: Reflection
 - The greatest diﬀerence between the original prompt/story and the end result was, of
