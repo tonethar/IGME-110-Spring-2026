@@ -16,7 +16,7 @@ You need to begin your infographic project with a plan for how to proceed. You'l
     - typography, and a little Photoshop
     - [PhotoShop demo](../exercises/ps-demo-1.md)!
   - #4 --> [Visual Design: Mood Board](https://docs.google.com/document/d/1__vvXFySYHWGtQBvBTT5-P6eJRfLBS9vpCaBKWrx0e8/)
-    - an in-class exercise completed on 6B
+    - an in-class exercise completed on 6A
 
 ## Available Proposals
 **This semester, we have 4 projects to choose from**
