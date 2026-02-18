@@ -12,10 +12,7 @@ You need to begin your infographic project with a plan for how to proceed. You'l
     - Layout & Composition - positive space, negative space, grids
   - #2 --> [Week 7 Study Guide: Visual Communication](https://docs.google.com/document/d/1yZJ_X0Gcly28FiJ-OHMNUh9EeAgkAbkZuoKdoskXO4M)
     - all about Infographics and how to make them!
-  - #3 --> [Visual Design: Typography Core Concepts](https://docs.google.com/document/d/1pCe1UT-s44cUaa9AJ3OFoHKkBphtrYAz1CXQoDRPYOg/)
-    - typography, and a little Photoshop
-    - [PhotoShop demo](../exercises/ps-demo-1.md)!
-  - #4 --> [Visual Design: Mood Board](https://docs.google.com/document/d/1__vvXFySYHWGtQBvBTT5-P6eJRfLBS9vpCaBKWrx0e8/)
+  - #3 --> [Visual Design: Mood Board](https://docs.google.com/document/d/1__vvXFySYHWGtQBvBTT5-P6eJRfLBS9vpCaBKWrx0e8/)
     - an in-class exercise completed on 6A
 
 ## Available Proposals
