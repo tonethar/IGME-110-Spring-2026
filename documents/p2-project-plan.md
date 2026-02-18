@@ -79,7 +79,7 @@ The mood board should include examples of:
 
 ## Submission Requirements
 - Format: Single .docx file
-- The mood board should be included/embedded in the document
+- The mood board should be exported as a PNG or JPEG, and included/embedded in the document
 - Submit to myCourses dropbox
 - See myCourses for specific due date and time
 
