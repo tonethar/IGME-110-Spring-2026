@@ -6,16 +6,16 @@ You need to begin your infographic project with a plan for how to proceed. You'l
 
 ## Prerequisites
 - You should have already completed ALL of the following:
-  - #1 --> [Week 6 Study Guide: Visual Design](https://docs.google.com/document/d/1wA7yfU2o4mPVfP88kHgBjJwjDIjfqMgIc54fLxeIOE0/edit?usp=sharing)
+  - #1 --> [Week 6 Study Guide: Visual Design](https://docs.google.com/document/d/1wA7yfU2o4mPVfP88kHgBjJwjDIjfqMgIc54fLxeIOE0/)
     - The Creative Brief - Research, ideation, the Mood board, production
     - Type & Typography - Font v. Type, Key Typographic terms, basic type classifications, type anatomy
     - Layout & Composition - positive space, negative space, grids
-  - #2 --> [Week 7 Study Guide: Visual Communication](https://docs.google.com/document/d/1yZJ_X0Gcly28FiJ-OHMNUh9EeAgkAbkZuoKdoskXO4M/copy)
+  - #2 --> [Week 7 Study Guide: Visual Communication](https://docs.google.com/document/d/1yZJ_X0Gcly28FiJ-OHMNUh9EeAgkAbkZuoKdoskXO4M)
     - all about Infographics and how to make them!
   - #3 --> [Visual Design: Typography Core Concepts](https://docs.google.com/document/d/1pCe1UT-s44cUaa9AJ3OFoHKkBphtrYAz1CXQoDRPYOg/)
     - typography, and a little Photoshop
     - [PhotoShop demo](../exercises/ps-demo-1.md)!
-  - #4 --> [Visual Design: Mood Board](https://docs.google.com/document/d/1__vvXFySYHWGtQBvBTT5-P6eJRfLBS9vpCaBKWrx0e8/edit?usp=sharing)
+  - #4 --> [Visual Design: Mood Board](https://docs.google.com/document/d/1__vvXFySYHWGtQBvBTT5-P6eJRfLBS9vpCaBKWrx0e8/)
     - an in-class exercise completed on 6B
 
 ## Available Proposals
