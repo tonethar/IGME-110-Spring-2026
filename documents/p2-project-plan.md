@@ -21,13 +21,13 @@ You need to begin your infographic project with a plan for how to proceed. You'l
 ## Available Proposals
 **This semester, we have 4 projects to choose from**
 
-→ XX
+→ [OneScan – Food Expiration Date Tracker](https://docs.google.com/document/d/1_Tcac4DRjUacTPGQfpZAwLdq6hwPU7OMdRpwxvJq80o/)
 
-→ XX
+→ [Biblio - Book Tracker/Recommender](https://docs.google.com/document/d/1PxmV-hzMt77xDOQPxGm0gHbLDIOCxoGPOxoIr8RrPQg/)
 
-→ XX
+→ [Castly - Mobile App for Anglers](https://docs.google.com/document/d/1qryGFQPg-2V63rg4hzjXLF2ak_wk6hNTya9CvjC6r7M)
 
-→ XX
+→ [The Orb - Home Assistant](https://docs.google.com/document/d/1efjtU1VDJx7luQ03pINxcoj2mmhAfAlNg8xme4Maz2g)
 
 
 **You may also choose from any of the app proposals from Fall 2025, here:**  
