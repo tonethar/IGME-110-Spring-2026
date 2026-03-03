@@ -74,7 +74,7 @@
   - choose File > Open Folder... and choose the **first-html-pages** folder
   - make some changes to **minimal.html** ...
   - change the title to `My GitHub Pages Site`
-  - change the level-1 heading to `My schedule for Fall 2025`
+  - change the level-1 heading to `My schedule for Spring 2026`
   - change the list of colors to a list of the courses you are taking this semester
   - change the list of courses from an ordered list to an *unordered list* (i.e. a bulleted list)
 
