@@ -58,18 +58,10 @@ OR
 
 ***2) Get your team together, and then as a group pick an infographic to implement***
 
-- In either case, ***--->*** *head to your section specific Slack channel* ***&lt;---*** in our [IGME-110 Slack workspace](https://www.rit.edu/its/rit-enterprise-slack) ...
-- ... you will see the current team membership, and the names of those still looking for a team ...
-- ... once you have found a team, one team member should immediately post the team membership to the thread ...
-- ... we need to know this so we can keep the membership list up to date ...
-- ... anyone who does not have a team at the beginning of our week 10B meeting will be assigned a team at that time
-
 ---
 
 ## IV. FAQ
 
-- ***Can we have cross-section teams?***
-  - no, students need to be from the same section
 - ***Are multiple groups allowed to implement the same product proposal/infographic?***
   - yes, any number of groups can implement the same proposal/infographic
  
