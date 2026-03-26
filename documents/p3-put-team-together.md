@@ -58,6 +58,9 @@ OR
 
 ***2) Get your team together, and then as a group pick an infographic to implement***
 
+
+***NOW POST YOUR TEAM MEMBERSHIP AND CHOSEN TOPIC TO THE APPLICABLE THREAD IN SLACK***
+
 ---
 
 ## IV. FAQ
