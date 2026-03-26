@@ -4,7 +4,9 @@
 
 ---
 
-## I. Which product proposals are available to choose from? Any of the 4 from this semester, as well as last semester's submissions
+## I. Which product proposals are available to choose from? 
+
+***Any of the 4 from this semester, as well as last semester's submissions:***
 
 - AcadeMeet
 - Anime Plushies
