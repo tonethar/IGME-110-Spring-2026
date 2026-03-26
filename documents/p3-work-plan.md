@@ -49,11 +49,10 @@
 
 ### Deadlines:
 - Due dates for project deliverables
-  - ***11A - Interactive Prototype: Project Plan*** (this deliverable) - due 11A (11/3 or 11/4)
-  - ***11B - Interactive Prototype: LoFi Testing*** (deliverable #2) - need *mockups* of at least 3 screens for testing - and user flow diagrams for at least 3 use cases -  due 11B (11/5 or 11/6)
-  - ***12A - Interactive Prototype:  Hi-Fi Version*** and in-class testing of the UX (use experience) design of the interactive digital prototype (Figma, Google Slides, HTML/CSS/JS, Visual Studio etc) aka (deliverable #3)  - due 12A (11/10 or 11/11)
-  - ***12B - In-class work time on Interactive Prototype***
-  - ***13A - Interactive Prototype: Final Presentation*** (deliverable #4) - due 13A (11/17 or 11/18)
+  - ***11A - Interactive Prototype: Project Plan*** (this deliverable)
+  - ***11B - Interactive Prototype: LoFi Testing*** (deliverable #2) - need *mockups* of at least 3 screens for testing - and user flow diagrams for at least 3 use cases
+  - ***12A - Interactive Prototype:  Hi-Fi Version*** and in-class testing of the UX (use experience) design of the interactive digital prototype (Figma, Google Slides, HTML/CSS/JS, Visual Studio etc) aka (deliverable #3)
+  - ***12B - Interactive Prototype: Final Presentation*** (deliverable #4)
  
 ### Milestones:
 - Consider the following as you break the project into phases:
