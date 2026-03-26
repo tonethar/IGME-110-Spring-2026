@@ -43,7 +43,7 @@
 ## II. *Where* are the Infographics?
 
 - The infographics for the previous semester product proposals are here --> [Infographics (sections 04/05/06/09)](https://github.com/tonethar/IGME-110-Fall-2025/tree/main/documents/_infographic-finals/)
-- The original project proposals are here --> [sections 02/08](https://github.com/jptweb/IGME-110-Fall-2025/tree/main/documents/app-proposal-finals) and here --> [sections 04/05/06/09](./_app-proposal-finals/)
+- The original project proposals from last semester are here --> [sections 02/08](https://github.com/jptweb/IGME-110-Fall-2025/tree/main/documents/app-proposal-finals) and here --> [sections 04/05/06/09](https://github.com/jptweb/IGME-110-Fall-2025/tree/main/documents/_app-proposal-finals/)
 
 ---
 
