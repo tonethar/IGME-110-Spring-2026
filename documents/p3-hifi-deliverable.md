@@ -51,7 +51,7 @@ Get a second set of eyes to spot any last-minute concerns before final presentat
 ---
 
 ## DELIVERABLE #3: Final Prototype & Presentation
-**Due: Week 13A (Nov 18/19) - Start of Class**
+**Due: Week 13A - Start of Class**
 
 ### I. Final Prototype Requirements
 
